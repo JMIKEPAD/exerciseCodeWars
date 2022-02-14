@@ -1,11 +1,6 @@
 
 //return masked string
 
-
-
-
-
-
 let cc = "4556364607935616";
 
 
